@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<presentation guid="B55D3868-A6FC-4E1C-A45A-7E1B3D86BEDF" version="0" availableOffline="1">
+	<info>
+		<title>Проверочная работа</title>
+		<description/>
+	</info>
+	<files index="id35" thumbnail="id65" totalSize="5513019">
+		<file id="id0">data/slide1.js</file>
+		<file id="id1">data/slide1.css</file>
+		<file id="id2">data/quiz1.js</file>
+		<file id="id3">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id4">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id5">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id6">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id7">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id8">data/quiz1/fonts/fnt5.woff</file>
+		<file id="id9">data/quiz1/fonts/fnt6.woff</file>
+		<file id="id10">data/quiz1/images/img-080e09b968464e567f026b72497c3fe48c8b3ce1.png</file>
+		<file id="id11">data/quiz1/images/img-1b99079104c33d5e1fbc03f656ed4898c65fd59e.png</file>
+		<file id="id12">data/quiz1/images/img-28894646ea2201f4a39b416dd28489fe7fb7510e.jpg</file>
+		<file id="id13">data/quiz1/images/img-2ec8398814cd3afba750bf67881163686baaf915.jpg</file>
+		<file id="id14">data/quiz1/images/img-4e3ff39ba7d7aba354e1e2d14dbfe24e350bdbc6.jpg</file>
+		<file id="id15">data/quiz1/images/img-55a4447ff9ed4026dbbbef5a4af0faeaedf88da7.png</file>
+		<file id="id16">data/quiz1/images/img-5f7cc17d9e7a130c4d1cf30836ba3451d0341790.png</file>
+		<file id="id17">data/quiz1/images/img-7a4091f4df18b4984de1ad8fdeaa8308e67c5efd.jpg</file>
+		<file id="id18">data/quiz1/images/img-83ae4be633c0cfb3a46a3d974283936798d5b549.png</file>
+		<file id="id19">data/quiz1/images/img-8613f2555b3e5d666401ff1febb96be7a885f9ac.png</file>
+		<file id="id20">data/quiz1/images/img-b06e177aab189d14242be51b2f085698e81a2bfb.png</file>
+		<file id="id21">data/quiz1/images/img-f853f908ed5a47c667c27277ff3bbeaecfeb805d.jpg</file>
+		<file id="id22">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id23">data/quiz2.js</file>
+		<file id="id24">data/quiz2/fonts/fnt0.woff</file>
+		<file id="id25">data/quiz2/fonts/fnt1.woff</file>
+		<file id="id26">data/quiz2/fonts/fnt2.woff</file>
+		<file id="id27">data/quiz2/fonts/fnt3.woff</file>
+		<file id="id28">data/quiz2/fonts/fnt4.woff</file>
+		<file id="id29">data/quiz2/fonts/fnt5.woff</file>
+		<file id="id30">data/quiz2/fonts/fnt6.woff</file>
+		<file id="id31">data/quiz2/images/img-2c4017f5a846faf3b33ed09b1a960fa8adedf6ae.png</file>
+		<file id="id32">data/quiz2/images/img-3a2308d2d58530ed8977aa0cb5d75e4aa2bbabb2.jpg</file>
+		<file id="id33">data/quiz2/images/quiz_bg_1.png</file>
+		<file id="id34">data/quizplayer.js</file>
+		<file id="id35">index.html</file>
+		<file id="id36">data/player.js</file>
+		<file id="id41">data/browsersupport.js</file>
+		<file id="id42">data/apple-touch-icon.png</file>
+		<file id="id43">data/favicon.ico</file>
+		<file id="id44">data/fnt0.woff</file>
+		<file id="id45">data/fnt1.woff</file>
+		<file id="id46">data/fnt2.woff</file>
+		<file id="id47">data/fnt3.woff</file>
+		<file id="id48">data/fnt4.woff</file>
+		<file id="id49">data/fnt5.woff</file>
+		<file id="id50">data/fnt6.woff</file>
+		<file id="id51">data/fnt7.woff</file>
+		<file id="id52">data/fnt8.woff</file>
+		<file id="id53">data/fnt9.woff</file>
+		<file id="id54">data/html5-unsupported.html</file>
+		<file id="id55">data/html5.png</file>
+		<file id="id56">data/img0.png</file>
+		<file id="id57">data/img1.png</file>
+		<file id="id58">data/img2.png</file>
+		<file id="id59">data/img3.png</file>
+		<file id="id60">data/img4.png</file>
+		<file id="id61">data/img5.png</file>
+		<file id="id62">data/img6.png</file>
+		<file id="id63">data/quiz_bg_0.png</file>
+		<file id="id64">data/quiz_bg_1.png</file>
+		<file id="id65">data/ismplayer/preview.png</file>
+		<file id="id66">data/ismplayer/play.svg</file>
+		<file id="id67">data/ismplayer/style.css</file>
+		<file id="id68">data/ismplayer/style_mini.css</file>
+		<file id="id69">ismplayer.html</file>
+		<file id="id70">data/ismplayer/app_store2x.png</file>
+		<file id="id71">metainfo.xml</file>
+	</files>
+</presentation>
